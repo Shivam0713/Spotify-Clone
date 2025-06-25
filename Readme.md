@@ -5,6 +5,13 @@ This clone is inspired by the core features of Spotify but uses custom logic and
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of the Spotify Clone here:  
+🔗 [Spotify Clone Live Preview](https://shivam0713.github.io/Spotify-Clone/)
+
+---
+
 ## 🎧 Features
 
 ### ✅ Core Functionalities
@@ -62,7 +69,7 @@ Spotify/
 ├── favicon.ico          
 └── index.html           
 
-
+```
 ---
 
 ## 📝 Setup Instructions
