@@ -45,19 +45,22 @@ This clone is inspired by the core features of Spotify but uses custom logic and
 
 This is the expected structure of your project:
 
+```plaintext
 Spotify/
-├── css/
-├── images/
-├── js/
-│ └── script.js
-├── songs/
-│ └── Chill_(mood)/ # Example playlist
-│ ├── cover.jpg
-│ ├── info.json
-│ ├── song1.mp3
-│ └── song2.mp3
-├── favicon.ico
-└── index.html
+├── assets/            
+│   └── cover.jpg    
+├── css/                 
+│   └── styles.css
+├── js/                  
+│   └── script.js
+├── songs/               
+│   └── Chill_(mood)/    
+│       ├── info.json 
+|       ├── cover.jpg 
+│       ├── song1.mp3    
+│       └── song2.mp3    
+├── favicon.ico          
+└── index.html           
 
 
 ---
